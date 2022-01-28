@@ -1,0 +1,9 @@
+ul.circuloBlanco {
+    list-style: circle;
+}
+ol.romano {
+    list-style-type: upper-roman;
+}
+ol.abclower {
+    list-style-type: lower-alpha;
+}
